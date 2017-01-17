@@ -1,4 +1,4 @@
-<h1>Tasksystem</h1>
+<h1>Tasksystem Restful API and MySQL Database</h1>
 
 Trello similar project with two separated parts.
 
